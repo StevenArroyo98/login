@@ -24,7 +24,8 @@
                             <a class="nav-link" href="#">Contactanos</a>
                         </li>
                     </ul>
-                    </form>
+                    <a href="login/view/home/login.php" class:"boton">Inicia Sesion</a>
+                    <a href="login/view/home/singup.php" class:"boton">Registrate</a>
                 </div>
             </div>
         </nav>
